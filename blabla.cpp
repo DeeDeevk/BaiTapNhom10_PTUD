@@ -107,6 +107,7 @@ void Menu() {
     cout << "\n____________________________________________\n";
     cout << endl;
     cout << "Nhap lua chon cua ban: ";
+    cout << "Nhap lua chon cua ban1: ";
 }
 
 int main() {
